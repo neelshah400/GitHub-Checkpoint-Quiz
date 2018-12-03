@@ -18,4 +18,10 @@ public class GitTest{
 
 	}
 
+	public void setStatement(String statement){
+
+		this.statement = statement;
+
+	}
+
 }
